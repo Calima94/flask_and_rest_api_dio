@@ -36,7 +36,11 @@ def consulta_todos_usuarios():
 
 if __name__ == '__main__':
     insere_usuario('rafael', '1234')
+<<<<<<< HEAD
     insere_usuario('galleani', '321')
+=======
+    insere_usuario('galleani', '4321')
+>>>>>>> 9b7859c0924acaf79824d2bc68ad3d56a5339662
     consulta_todos_usuarios()
     # insere_pessoas()
     # altera_pessoa()
